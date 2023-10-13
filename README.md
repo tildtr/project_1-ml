@@ -1,1 +1,1 @@
-# project_1-ml
+# Project 1
